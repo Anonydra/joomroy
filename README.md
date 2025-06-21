@@ -1,6 +1,7 @@
 Joomroy
 
 Joomroy is a Bash-based tool for scanning Joomla websites for version info, vulnerabilities (based on known CVEs), sensitive files, admin panel exposure, and potential WAF detection.
+
 🛠 Installation
 
 git clone https://github.com/Anonydra/joomroy.git
